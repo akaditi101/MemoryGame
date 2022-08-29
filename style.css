@@ -1,0 +1,32 @@
+body {
+  background-color: lightseagreen !important;
+}
+.hidden
+{
+  opacity: 0 !important;
+  /* background-color: green; */
+}
+.row {
+  border: black;
+  border-bottom-width: 20px !important;
+}
+.correct {
+   background-color: rgb(247, 158, 158) !important;
+   /* opacity: 0.5; */
+}
+nav {
+  background-color: rgba(250, 236, 135, 0.679) !important;
+}
+
+.ruleCard {
+  margin-left: 20%;      
+  margin-right: 20%;
+  margin-top: 20%
+  width: auto;
+  background-color: pink;
+}
+
+.top {
+  font-weight: bold;
+}
+
